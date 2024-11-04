@@ -42,15 +42,15 @@
       border-radius: 8px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" <h3>Contact Information</h3>
             <div style="margin: 5px 0">
-                <i class="fa fa-phone" style="margin-right: 5px"></i> Phone:
-                <a href="http://wa.me/09488339232" target="_blank">+730 689 0297</a>
+                📞 Phone:
+                <a href="http://wa.me/7306890297" target="_blank">+730 689 0297</a>
             </div>
             <div style="margin: 5px 0">
-                <i class="fa fa-envelope" style="margin-right: 5px"></i> Email:
+                📧 Email:
                 <a href="mailto:muhammedsuhaibpottayil@gmail.com">muhammedsuhaibpottayil@gmail.com</a>
             </div>
             <div style="margin: 5px 0">
-                <i class="fa fa-linkedin-square" style="margin-right: 5px"></i>
+                🔗
                 LinkedIn:
                 <a href="https://www.linkedin.com/in/muhammedsuhaib" target="_blank">linkedin.com/in/muhammedsuhaib</a>
             </div>
