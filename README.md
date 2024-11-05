@@ -1,4 +1,4 @@
- <div style="max-width: 1200px;    margin: auto;    padding: 20px;">
+<div style="max-width: 1200px; margin: auto; padding: 20px; background-color: white;">
         <h1 align="center" style="margin-bottom: 10px; transition: transform 0.3s ease;">
             👋 Hi, I’m Muhammed Suhaib
         </h1>
