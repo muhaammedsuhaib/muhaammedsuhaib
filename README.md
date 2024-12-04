@@ -1,218 +1,33 @@
-<div style="max-width: 1200px; margin: auto; padding: 20px; background-color: white;">
-        <h1 align="center" style="margin-bottom: 10px; transition: transform 0.3s ease;">
-            👋 Hi, I’m Muhammed Suhaib
-        </h1>
-        <h2 align="center" style="margin-bottom: 20px; color: #555;  transition: transform 0.3s ease;">
-            A Passionate Fullstack Developer
-        </h2>        <div align="center">
-            <a href="https://www.instagram.com/suhaii.bb/" target="_blank">
-                <img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"
-                    alt="Instagram Logo" width="65" height="65"
-                    style="margin-bottom: 20px; transition: transform 0.2s;  transition: transform 0.3s ease;" />
-            </a>
-        </div>        <div style=" margin: 20px 0;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-            <h3 align="center" style=" transition: transform 0.3s ease;">About Me</h3>
-            <ul style="list-style-type: none; padding: 0">
-                <li>
-                    👀 I’m interested in playing games and web development. That's a
-                    great combination of interests!
-                </li>
-                <li>
-                    🌱 I’m currently learning more about web development and exploring
-                    new projects. If you have any cool ideas, feel free to share!
-                </li>
-                <li>
-                    💞 I’m looking to collaborate on interesting projects, especially
-                    those that combine creativity and technical challenges. Let's create
-                    something amazing together!
-                </li>
-                <li>
-                    📫 You can reach out to me on Instagram or via other channels for
-                    any questions or collaboration opportunities.
-                </li>
-            </ul>
-        </div>
-        <div style=" margin: 20px 0;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" <h3>Contact Information</h3>
-            <div style="margin: 5px 0">
-                📞 Phone:
-                <a href="http://wa.me/7306890297" target="_blank">+730 689 0297</a>
-            </div>
-            <div style="margin: 5px 0">
-                📧 Email:
-                <a href="mailto:muhammedsuhaibpottayil@gmail.com">muhammedsuhaibpottayil@gmail.com</a>
-            </div>
-            <div style="margin: 5px 0">
-                🔗
-                LinkedIn:
-                <a href="https://www.linkedin.com/in/muhammedsuhaib" target="_blank">linkedin.com/in/muhammedsuhaib</a>
-            </div>
-        </div>
-        <h3 align="center" style="margin-top: 20px">
-            Creative and Technical Proficiency:
-        </h3>
-        <div align="center">
-            <table style="margin: 20px auto;
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 900px;">
-                <tr>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-                        <br />HTML5
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-                        <br />CSS
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65"
-                            height="65" />
-                        <br />JavaScript
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65"
-                            height="65" />
-                        <br />TypeScript
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"
-                            height="65" />
-                        <br />React
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62"
-                            height="62" />
-                        <br />Redux Toolkit
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://i.pinimg.com/474x/91/23/7f/91237f1eca767ef74d722ca534f9281a.jpg" width="48"
-                            height="48" alt="MongoDB" />
-                        <br />MongoDB
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp"
-                            alt="Tailwind CSS" width="48" height="48" />
-                        <br />Tailwind CSS
-                    </td>
-                </tr>
-                <tr>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-                        <br />Bootstrap
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65"
-                            height="65" />
-                        <br />GitHub
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png"
-                            alt="Next.js" width="65" height="65" />
-                        <br />Next.js
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js"
-                            width="65" height="65" />
-                        <br />Node.js
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js"
-                            width="65" height="65" />
-                        <br />Express.js
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-vuejs-3d-logo-download-in-png-blend-fbx-gltf-file-formats--vue-company-brand-vol-1-pack-logos-3640297.png?f=webp"
-                            alt="Vue" width="65" height="65" />
-                        <br />Vue.js
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65"
-                            height="65" />
-                        <br />REST API
-                    </td>
-                    <td style="padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        text-align: center;">
-                        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65"
-                            height="65" />
-                        <br />Prettier
-                    </td>
-                </tr>
-            </table>
-        </div>
-        <footer style="  text-align: center;
-      margin-top: 30px;
-      font-size: 0.9em;
-      color: #555;">
-            <p>© 2024 Muhammed Suhaib - All Rights Reserved</p>
-        </footer>
+# 💫 About Me:
+Hi, I'm Muhammed Suhaib, a passionate Software Developer with over a year of experience in full-stack development. I’ve worked on impactful projects at Bridgeon Solution and RootsSys International, focusing on building scalable, high-performance applications. My expertise spans technologies like JavaScript, React, Node.js, SQL, and MongoDB.
+
+While I enjoy full-stack development, I’m particularly drawn to backend work, where I can delve into system architecture and problem-solving. I'm committed to continuous learning and always eager to collaborate with like-minded professionals to drive innovation and solve complex challenges.
+
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/muhammedsuhaib4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suhaii.bb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammedsuhaib/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@muhammedsuhaibpottayil) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/muhammedsuhaibpottayil/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Muhammed-Suhaib-51) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/mrsajadpp/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28516728/muhammed-suhaib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https:/MuhaammedSuhaib) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@suhaii.bb-0) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Muhammed-Suhaib-the-solid) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrmuhaammedsuhaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrmuhaammedsuhaib&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmuhaammedsuhaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mrmuhaammedsuhaib&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mrmuhaammedsuhaib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mrmuhaammedsuhaib&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammedsus) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/suhaib007) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
